@@ -1,3 +1,5 @@
 # documentation
 
-[English](https://github.com/meddevblockchain/documentation/blob/master/Med-Dev%20BlockChain%20v1.3.pdf)
+[Technical White Paper: Med-Dev.io English v1.3](https://github.com/meddevblockchain/documentation/blob/master/Med-Dev_BlockChain_Whitepaper_v1.3.pdf)
+
+[Introduction to Medical Device Regulation: Med-Dev.io English v1.3](https://github.com/meddevblockchain/documentation/blob/master/Med-Dev_BlockChain_Whitepaper_v1.3.pdf)
